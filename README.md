@@ -8,8 +8,8 @@ I build free AI-powered tools that solve real problems.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **MaxAI Writer** | 6 AI writing tools (resume, cover letter, email & more) | [Live](https://maxai-writer-pro-tools.netlify.app) · [Code](https://github.com/x-tahosin/maxai-writer) |
-| **PromptCraft AI** | AI image prompt generator for MJ, DALL-E, SD & Flux | [Live](https://promptcraft-ai-gen.netlify.app) · [Code](https://github.com/x-tahosin/promptcraft-ai) |
+| **MaxAI Writer** | 6 AI writing tools (resume, cover letter, email & more) | [Live](https://maxai-writer.pages.dev) · [Code](https://github.com/x-tahosin/maxai-writer) |
+| **PromptCraft AI** | AI image prompt generator for MJ, DALL-E, SD & Flux | [Live](https://promptcraft-ai.pages.dev) · [Code](https://github.com/x-tahosin/promptcraft-ai) |
 
 ## 🛠 Tech Stack
 
@@ -27,7 +27,7 @@ I build free AI-powered tools that solve real problems.
 
 ## 📫 Connect
 
-- 🌐 [maxai-writer-pro-tools.netlify.app](https://maxai-writer-pro-tools.netlify.app)
+- 🌐 [maxai-writer.pages.dev](https://maxai-writer.pages.dev)
 - 📖 [dev.to/xtahosin](https://dev.to/xtahosin)
 
 ---
