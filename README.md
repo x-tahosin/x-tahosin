@@ -1,35 +1,31 @@
-# Hey, I'm S M Tahosin 👋
+# Hey, I'm Tahosin 👋
 
-**Full-Stack Developer | AI Builder | Open Source**
-
-I build free AI-powered tools that solve real problems.
+**AI Developer** building free tools that make AI accessible to everyone.
 
 ## 🚀 My Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **MaxAI Writer** | 6 AI writing tools (resume, cover letter, email & more) | [Live](https://maxai-writer.pages.dev) · [Code](https://github.com/x-tahosin/maxai-writer) |
-| **PromptCraft AI** | AI image prompt generator for MJ, DALL-E, SD & Flux | [Live](https://promptcraft-ai.pages.dev) · [Code](https://github.com/x-tahosin/promptcraft-ai) |
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **EcoSense AI** 🌍 | AI carbon footprint analyzer | [ecosense-ai.pages.dev](https://ecosense-ai.pages.dev) |
+| **MaxAI Writer** ✍️ | Free AI writing tools | [maxai-writer.pages.dev](https://maxai-writer.pages.dev) |
+| **PromptCraft AI** 🎨 | AI prompt generator | [promptcraft-ai.pages.dev](https://promptcraft-ai.pages.dev) |
+| **EcoBot** 🤖 | OpenClaw carbon tracker skill | [GitHub](https://github.com/x-tahosin/openclaw-ecobot) |
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**AI/ML:** Google Gemini · Prompt Engineering  
-**Backend:** Node.js · Python · REST APIs  
-**Web3:** BNB/BSC · Crypto Payments  
-**DevOps:** Netlify · GitHub Actions
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
-## 📝 Latest Articles
+## 🏆 Currently
 
-- [I Built 6 Free AI Writing Tools in One Weekend](https://dev.to/xtahosin/i-built-6-free-ai-writing-tools-in-one-weekend-no-signup-required-15cg)
-- [PromptCraft AI: Free Prompt Generator for Midjourney & DALL-E](https://dev.to/xtahosin/promptcraft-ai-free-prompt-generator-for-midjourney-dall-e-3-stable-diffusion-29ac)
-- [How to Call Google Gemini API from Next.js (Free)](https://dev.to/xtahosin/how-to-call-google-gemini-api-from-nextjs-free-tier-no-backend-needed-3dng)
+- 🌱 Competing in [DEV Weekend Challenge: Earth Day Edition](https://dev.to/challenges/weekend-2026-04-16)
+- 🦞 Building with [OpenClaw](https://openclaw.ai) for the OpenClaw Challenge
+- 💡 Making AI tools free and accessible
 
-## 📫 Connect
+## 📫 Find Me
 
-- 🌐 [maxai-writer.pages.dev](https://maxai-writer.pages.dev)
-- 📖 [dev.to/xtahosin](https://dev.to/xtahosin)
-
----
-
-*Building in public. Shipping fast. Open-sourcing everything.*
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/tahosin)
