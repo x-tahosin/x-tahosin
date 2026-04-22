@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/x-tahosin">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=820&height=88&lines=Full-stack+developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Shipping+free%2C+fast%2C+actually-useful+AI+tools;Currently+running+a+6-platform+autopilot+that+never+sleeps" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=820&height=88&lines=Full-stack+developer+from+Bangladesh;Shipping+free%2C+fast%2C+actually-useful+AI+tools;Currently+running+a+6-platform+autopilot+that+never+sleeps" alt="typing"/>
   </a>
 </p>
 
