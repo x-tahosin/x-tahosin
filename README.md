@@ -85,7 +85,8 @@ Chat, image analysis, video analysis, and full website generation in one place. 
 
 `Next.js` · `TypeScript` · `Gemini 2.5 Pro` · `Vision` · `Tailwind`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/hocks-ai)
+[![Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://hocks.app)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/hocks-ai)
 
 </td>
 </tr>
@@ -142,6 +143,7 @@ Playwright wrapper that lets LLMs verify UI state semantically. Intelligent cach
 
 `TypeScript` · `Playwright` · `Gemini` · `OpenAI` · `node`
 
+[![Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://passmark.dev)
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/passmark)
 
 </td>
