@@ -256,6 +256,14 @@ Persistent-memory skill for the OpenClaw AI assistant — logs meals/commutes/fl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x-tahosin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" width="98%" alt="activity graph"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-graph snake" src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake.svg" width="98%" />
+  </picture>
+</p>
+
 ---
 
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
