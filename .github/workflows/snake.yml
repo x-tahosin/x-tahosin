@@ -1,0 +1,37 @@
+name: Generate contribution-graph snake animation
+
+on:
+  # Every day at 00:10 UTC
+  schedule:
+    - cron: "10 0 * * *"
+  # On push to main (to regenerate immediately after profile edits)
+  push:
+    branches:
+      - main
+  # Manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVG (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: x-tahosin
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8cbef0,#58a6ff,#1f6feb,#0969da
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
