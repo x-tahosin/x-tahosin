@@ -13,6 +13,14 @@
 </p>
 
 <p align="center">
+  <a href="https://dev.to/tahosin/0month-5-ai-apps-all-on-gemini-heres-exactly-what-the-free-tier-gives-you-and-what-breaks-58fl">
+    <img src="https://img.shields.io/badge/%F0%9F%93%96_NEW_POST-%240%2Fmonth%20%C2%B7%205%20AI%20apps%20%C2%B7%20All%20on%20Gemini-58A6FF?style=for-the-badge&labelColor=0D1117" alt="latest post"/>
+  </a>
+</p>
+
+
+
+<p align="center">
   <a href="https://github.com/x-tahosin?tab=followers"><img src="https://img.shields.io/github/followers/x-tahosin?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=58A6FF" alt="followers"/></a>
   <a href="https://github.com/x-tahosin"><img src="https://komarev.com/ghpvc/?username=x-tahosin&style=for-the-badge&label=Profile+Views&color=58A6FF&base=1000" alt="views"/></a>
   <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/dev.to-22+articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/></a>
