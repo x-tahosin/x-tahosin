@@ -42,6 +42,18 @@
 <!--                               ABOUT                                             -->
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 
+
+<!-- awesome-llm-benchmarks cross-link -->
+<p align="center">
+  <a href="https://github.com/x-tahosin/awesome-llm-benchmarks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-tahosin&repo=awesome-llm-benchmarks&theme=github_dark&border_color=30363d&icon_color=58A6FF" alt="awesome-llm-benchmarks"/>
+  </a>
+  <a href="https://github.com/x-tahosin/gemini-bench-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-tahosin&repo=gemini-bench-2026&theme=github_dark&border_color=30363d&icon_color=58A6FF" alt="gemini-bench-2026"/>
+  </a>
+</p>
+<!-- /awesome-llm-benchmarks cross-link -->
+
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="28"> &nbsp; About me
 
 ```yaml
