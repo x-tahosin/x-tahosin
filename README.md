@@ -1,58 +1,83 @@
+<div align="center">
+
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 <!--                              HERO BANNER                                        -->
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://tahosin.me">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tahosin&fontSize=72&fontAlign=50&fontAlignY=35&desc=17-y%2Fo%20Full-stack%20%26%20AI%20Developer%20%C2%B7%20Google%20I%2FO%20'26%20Winner&descSize=18&descAlign=50&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%" alt="Tahosin Banner"/>
+  <img src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/main/assets/banner.jpg" width="100%" alt="Tahosin — AI Developer & Systems Builder" style="border-radius: 14px; box-shadow: 0 12px 40px rgba(0,0,0,0.65);"/>
 </a>
 
+<br/><br/>
+
+<a href="https://tahosin.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=880&height=90&lines=17-y%2Fo+Full-Stack+%26+AI+Engineer+from+Bangladesh;%F0%9F%8F%86+Winner+of+Google+I%2FO+2026+Writing+Challenge;DEV+Community+Curator+%C2%B7+90K%2B+Readers+%C2%B7+5.6K%2B+Followers;Building+Autonomous+AI+Agents+%26+Assistive+Systems;useful+%3E+clever+%C2%B7+free+%3E+paywalled+%C2%B7+public+%3E+polished" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Live Badges & Metrics Bar -->
 <p align="center">
-  <a href="https://tahosin.me">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=860&height=88&lines=17-y%2Fo+Full-Stack+%26+AI+Developer+from+Bangladesh;%F0%9F%8F%86+Winner+of+Google+I%2FO+2026+Writing+Challenge;DEV+Community+Curator+%C2%B7+5.6K%2B+Tech+Readers;useful+%3E+clever+%C2%B7+free+%3E+paywalled+%C2%B7+public+%3E+polished" alt="typing"/>
-  </a>
+  <a href="https://tahosin.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-tahosin.me-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website"/></a>
+  <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_DEV_VIEWS-90K%2B-58A6FF?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="90K Views"/></a>
+  <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/%F0%9F%91%A5_FOLLOWERS-5.6K%2B-7F52FF?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="5.6K Followers"/></a>
+  <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/%E2%9C%A8_DEV_ROLE-Curator_%26_Subscriber-FFB800?style=for-the-badge&logo=devdotto&logoColor=black&labelColor=0D1117" alt="Curator Badge"/></a>
+  <a href="https://github.com/x-tahosin"><img src="https://komarev.com/ghpvc/?username=x-tahosin&style=for-the-badge&label=PROFILE+VIEWS&color=58A6FF&base=1000&labelColor=0D1117" alt="Views"/></a>
 </p>
 
-<p align="center">
-  <a href="https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-3k28">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86_HACKATHON_WINNER-Google%20I%2FO%20'26%20Challenge%20%C2%B7%20Managed%20Agents%20API-FFB800?style=for-the-badge&labelColor=0D1117" alt="Google IO Challenge Winner"/>
-  </a>
-  &nbsp;
-  <a href="https://dev.to/tahosin/why-should-a-mother-with-als-sound-like-a-microwave-building-gift-of-voice-with-gemini-and-elevenlabs-2p6l">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_LATEST_PROJECT-Gift%20of%20Voice%20%C2%B7%20Gemini%20%2B%20ElevenLabs-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Latest Project Gift of Voice"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://tahosin.me"><img src="https://img.shields.io/badge/Website-tahosin.me-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="personal website"/></a>
-  <a href="https://github.com/x-tahosin?tab=followers"><img src="https://img.shields.io/github/followers/x-tahosin?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=58A6FF" alt="followers"/></a>
-  <a href="https://github.com/x-tahosin"><img src="https://komarev.com/ghpvc/?username=x-tahosin&style=for-the-badge&label=Profile+Views&color=58A6FF&base=1000" alt="views"/></a>
-  <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/DEV_Followers-5.6k%2B-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="devto followers"/></a>
-  <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/DEV_Views-9k%2B-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="devto views"/></a>
-  <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/Role-Community%20Curator-7F52FF?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="curator badge"/></a>
-</p>
-
+<!-- Quick Action Social Links -->
 <p align="center">
   <a href="https://tahosin.me"><img src="https://img.shields.io/badge/Website-tahosin.me-00C853?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  &nbsp;
   <a href="https://github.com/x-tahosin"><img src="https://img.shields.io/badge/GitHub-x--tahosin-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;
   <a href="https://dev.to/tahosin"><img src="https://img.shields.io/badge/Dev.to-@tahosin-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
+  &nbsp;
   <a href="https://x.com/smtahosin"><img src="https://img.shields.io/badge/X-@smtahosin-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  &nbsp;
   <a href="mailto:x.tahosin@gmail.com"><img src="https://img.shields.io/badge/Email-x.tahosin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════════════ -->
+<!--                    🏆 HACKATHON WINNER HIGHLIGHT                             -->
+<!-- ════════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="28"> &nbsp; Hackathon Champion
+
+<div align="center">
+<a href="https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-3k28">
+  <img src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/main/assets/google_io_winner.jpg" width="100%" alt="Google I/O 2026 Writing Challenge Winner" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
+</a>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+### 🏆 Winner — Google I/O 2026 Writing Challenge
+**Awarded Article**: [The Most Underrated Announcement from Google I/O 2026 Was Buried in a 90-Second Demo](https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-3k28)
+
+- **Official Recognition**: Selected as an official winner by DEV and Google developer communities for a technical deep-dive into the newly announced **Managed Agents API**.
+- **What Was Solved**: Dissected how autonomous agent execution, sub-agent telemetry, and multi-model routing transform real-world production engineering beyond consumer chat interfaces.
+- **Impact**: Read and shared across developer platforms, establishing new architectural patterns for autonomous software agents.
+
+[![Read Winning Article](https://img.shields.io/badge/Read%20Winning%20Post-FFB800?style=for-the-badge&logo=devdotto&labelColor=000000&logoColor=white)](https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-3k28)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 <!--                               ABOUT                                             -->
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <a href="https://github.com/x-tahosin/giftofvoice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-tahosin&repo=giftofvoice&theme=github_dark&border_color=30363d&icon_color=58A6FF" alt="giftofvoice"/>
-  </a>
-  <a href="https://github.com/x-tahosin/Solstice-Runner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-tahosin&repo=Solstice-Runner&theme=github_dark&border_color=30363d&icon_color=58A6FF" alt="Solstice-Runner"/>
-  </a>
-</p>
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="28"> &nbsp; About Me
 
@@ -62,73 +87,17 @@ age:            17 years old
 role:           Full-stack & AI Developer
 location:       Bangladesh 🇧🇩
 website:        https://tahosin.me
-accolades:      🏆 Google I/O 2026 Writing Challenge Winner · DEV Community Curator
+accolade:       🏆 Google I/O 2026 Writing Challenge Winner
+community_role: DEV Community Curator & Subscriber
+reach:          90,000+ views · 5,650+ followers · 1,050+ reactions
+manifesto:      useful > clever · free > paywalled · public > polished
 current_stack:  Next.js 16 · TypeScript · Gemini 2.5 / 1.5 · ElevenLabs · Three.js · Cloudflare · n8n
-philosophy:     useful > clever · free > paywalled · public > polished
-stats:          9,050+ views · 1,050+ reactions · 5,650+ followers across 16+ articles
-side_quest:     Running a 6-platform auto-publisher that posts every 12 hours
+side_project:   Running an autonomous 6-platform AI publisher that runs 24/7
 ```
 
-I build AI-powered applications and tools end-to-end — research, prompt architecture, UI, and deployment. Most of what I ship is free and open-source because the best way to understand and advance AI is to get hands-on with it and put it directly into users' hands.
+I build AI-powered applications and systems end-to-end — from deep research and prompt architecture to reactive UIs and edge deployments. Most of what I ship is free and open-source by default because the best way to understand and master AI is to put functioning systems into the hands of real people.
 
-Currently focusing on **humanitarian assistive AI** (Gift of Voice), **3D web experiences** (Solstice Runner), **autonomous agent workflows that run 24/7** (Social Media Autopilot), and **AI browser verification** (Passmark).
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════════════════ -->
-<!--                       🏆 HACKATHONS & CHALLENGES                                -->
-<!-- ════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="28"> &nbsp; Hackathons & Competitions
-
-<table>
-<thead>
-<tr>
-<th>Event / Competition</th>
-<th>Status / Result</th>
-<th>Project / Submission</th>
-<th>Highlights</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Google I/O 2026 Writing Challenge</b></td>
-<td><img src="https://img.shields.io/badge/WINNER-FFB800?style=for-the-badge&labelColor=000000&logoColor=white" alt="Winner Badge"/></td>
-<td><a href="https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-3k28"><b>The Most Underrated Announcement from Google I/O</b></a></td>
-<td>Breakdown of Google's Managed Agents API & autonomous multi-agent orchestration.</td>
-</tr>
-<tr>
-<td><b>June Solstice Game Jam 2026</b></td>
-<td><img src="https://img.shields.io/badge/Completed-58A6FF?style=for-the-badge&labelColor=000000" alt="Completed"/></td>
-<td><a href="https://github.com/x-tahosin/Solstice-Runner"><b>Solstice Runner</b></a></td>
-<td>3D Solar Survival Runner built with React Three Fiber, Three.js, and dynamic light cycles.</td>
-</tr>
-<tr>
-<td><b>DEV Humanitarian AI Initiative</b></td>
-<td><img src="https://img.shields.io/badge/Featured-00C853?style=for-the-badge&labelColor=000000" alt="Featured"/></td>
-<td><a href="https://github.com/x-tahosin/giftofvoice"><b>Gift of Voice</b></a></td>
-<td>Real-time empathetic voice & ALS communication platform with Google Gemini & ElevenLabs.</td>
-</tr>
-<tr>
-<td><b>Gemma 4 Challenge</b></td>
-<td><img src="https://img.shields.io/badge/Completed-58A6FF?style=for-the-badge&labelColor=000000" alt="Completed"/></td>
-<td><a href="https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-2g99"><b>Gemma 4 on Edge (Raspberry Pi)</b></a></td>
-<td>10x cheaper edge computer vision system running local multimodal models.</td>
-</tr>
-<tr>
-<td><b>DEV Earth Day 2026 Challenge</b></td>
-<td><img src="https://img.shields.io/badge/Submitted-2EA44F?style=for-the-badge&labelColor=000000" alt="Submitted"/></td>
-<td><a href="https://github.com/x-tahosin/ecosense-ai"><b>EcoSense AI</b></a></td>
-<td>Verifiable carbon footprint analyzer built on Gemini, Solana, and Cloudflare Pages.</td>
-</tr>
-<tr>
-<td><b>OpenClaw & Hermes Challenge</b></td>
-<td><img src="https://img.shields.io/badge/Completed-7F52FF?style=for-the-badge&labelColor=000000" alt="Completed"/></td>
-<td><a href="https://github.com/x-tahosin/openclaw-ecobot"><b>EcoBot & Hermes Architecture</b></a></td>
-<td>Persistent memory skills for AI agents and agentic framework analysis.</td>
-</tr>
-</tbody>
-</table>
+Currently exploring **humanitarian assistive AI systems** (Gift of Voice), **3D WebGL experiences** (Solstice Runner), **autonomous agent swarms** (Social Media Autopilot), and **semantic browser verification** (Passmark).
 
 ---
 
@@ -143,29 +112,37 @@ Currently focusing on **humanitarian assistive AI** (Gift of Voice), **3D web ex
 <td width="50%" valign="top">
 
 ### 🎙️ Gift of Voice
-**Humanitarian AI voice & empathy platform for ALS patients**
+**Humanitarian AI Speech Restoration Platform for ALS Patients**
 
-Empowers individuals who have lost their natural speaking ability to communicate with expressiveness, emotional nuance, and sub-second latency. Integrates low-latency voice synthesis with live tone selection.
+<a href="https://github.com/x-tahosin/giftofvoice">
+  <img src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/main/assets/gift_of_voice.jpg" width="100%" alt="Gift of Voice" style="border-radius: 8px; margin-bottom: 8px;"/>
+</a>
+
+Restores expressive, natural human voice synthesis for non-verbal individuals and ALS patients. Eliminates robotic monotones through real-time tone adaptation, adaptive pitch modulation, and sub-second Web Audio streaming.
 
 `Gemini 2.5` · `ElevenLabs Voice API` · `React 19` · `Tailwind` · `Web Audio API`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://x-tahosin.github.io/giftofvoice/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/giftofvoice)
-[![Article](https://img.shields.io/badge/Read%20Story-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/tahosin/why-should-a-mother-with-als-sound-like-a-microwave-building-gift-of-voice-with-gemini-and-elevenlabs-2p6l)
+[![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/giftofvoice)
+[![Read Story](https://img.shields.io/badge/Read%20Story-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/tahosin/why-should-a-mother-with-als-sound-like-a-microwave-building-gift-of-voice-with-gemini-and-elevenlabs-2p6l)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Solstice Runner
-**3D AI-powered solar survival runner (June Solstice Jam)**
+**3D Procedural Solar Survival Runner (June Solstice Jam)**
 
-Control a dynamic solar runner navigating celestial procedural tracks while maintaining light reserves against incoming eclipse shadows. Built with high-performance 3D shaders and procedural physics.
+<a href="https://github.com/x-tahosin/Solstice-Runner">
+  <img src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/main/assets/solstice_runner.jpg" width="100%" alt="Solstice Runner" style="border-radius: 8px; margin-bottom: 8px;"/>
+</a>
+
+High-octane 3D space runner where players maneuver a celestial craft along procedural tracks, harvesting solar particles while racing against encroaching eclipse darkness. Built with custom WebGL lighting shaders.
 
 `React Three Fiber` · `Three.js` · `TypeScript` · `Vite` · `Tailwind`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://x-tahosin.github.io/Solstice-Runner/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/Solstice-Runner)
-[![Article](https://img.shields.io/badge/Dev.to%20Jam-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-32cf)
+[![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/Solstice-Runner)
+[![Jam Story](https://img.shields.io/badge/Jam%20Writeup-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-32cf)
 
 </td>
 </tr>
@@ -174,9 +151,9 @@ Control a dynamic solar runner navigating celestial procedural tracks while main
 <td width="50%" valign="top">
 
 ### 🎬 HOCKS AI
-**Premium 4D cinematic multi-modal AI platform**
+**Premium 4D Cinematic Multi-modal AI Platform**
 
-Chat, image analysis, video analysis, and full website generation in one place. Cinematic UI, streaming responses, zero auth friction for the free tier.
+Chat, image analysis, video analysis, and full website generation in one unified interface. Cinematic UI, streaming responses, and zero authentication friction for the free tier.
 
 `Next.js` · `TypeScript` · `Gemini 2.5 Pro` · `Vision` · `Tailwind`
 
@@ -187,7 +164,7 @@ Chat, image analysis, video analysis, and full website generation in one place. 
 <td width="50%" valign="top">
 
 ### 🤖 Social Media Autopilot
-**6-platform AI news publisher that never sleeps**
+**6-Platform AI News Publisher That Never Sleeps**
 
 Picks one tech story every 12h, writes 5 platform-specific versions, generates 3 unique AI images, posts to **Dev.to · Hashnode · X · Facebook · Instagram**, then commits a markdown summary to GitHub. Zero manual intervention.
 
@@ -202,23 +179,10 @@ Picks one tech story every 12h, writes 5 platform-specific versions, generates 3
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 EcoSense AI
-**Carbon footprint analyzer · Earth Day 2026**
-
-Get your eco score in 60 seconds. Uses Google Gemini for analysis, Backboard for persistence, Solana for verifiable claims, served from Cloudflare Pages.
-
-`Next.js 16` · `Gemini` · `Backboard` · `Solana` · `Cloudflare`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://ecosense-ai.pages.dev)
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/ecosense-ai)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎭 Passmark
-**AI browser regression testing — open source**
+**AI Browser Regression Testing — Open Source**
 
-Playwright wrapper that lets LLMs verify UI state semantically. Intelligent caching, auto-healing selectors, multi-model verification.
+Playwright wrapper that enables LLMs to verify UI state semantically. Includes intelligent DOM snapshot caching, auto-healing selector fallbacks, and multi-model verification.
 
 `TypeScript` · `Playwright` · `Gemini` · `OpenAI` · `Node.js`
 
@@ -226,40 +190,24 @@ Playwright wrapper that lets LLMs verify UI state semantically. Intelligent cach
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/passmark)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### 🎨 PromptCraft AI
-**Free prompt generator for Midjourney · DALL-E 3 · SD**
+### 🌍 EcoSense AI
+**Verifiable Carbon Footprint Analyzer · Earth Day 2026**
 
-Structured prompts with style presets, aspect ratios, camera angles, and negative-prompt sanitization. Zero signup.
+Calculates an instant personal eco score in 60 seconds with recommendations. Uses Google Gemini for carbon calculations, Backboard for state persistence, and Solana for verifiable claims.
 
-`Next.js` · `Gemini` · `TypeScript` · `Cloudflare Pages`
+`Next.js 16` · `Gemini` · `Backboard` · `Solana` · `Cloudflare`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://promptcraft-ai.pages.dev)
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/promptcraft-ai)
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ MaxAI Writer
-**6 free AI writing tools in one place**
-
-Resume builder, cover letter generator, email writer, content rewriter, summarizer, tone-shifter. No signup, no paywall.
-
-`Next.js` · `Gemini` · `Tailwind` · `Cloudflare Pages`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://maxai-writer.pages.dev)
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/maxai-writer)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://ecosense-ai.pages.dev)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/x-tahosin/ecosense-ai)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/x-tahosin?tab=repositories"><img src="https://img.shields.io/badge/See%20all%2024%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all 24 repos"/></a>
+  <a href="https://github.com/x-tahosin?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%2024%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all 24 repos"/></a>
 </p>
 
 ---
@@ -274,7 +222,7 @@ Resume builder, cover letter generator, email writer, content rewriter, summariz
 <tr>
 <td valign="top" width="50%">
 
-**AI & ML**
+**AI & ML Architecture**
 
 ![Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=flat-square&logo=google&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
@@ -285,7 +233,7 @@ Resume builder, cover letter generator, email writer, content rewriter, summariz
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
-**Frontend & 3D**
+**Frontend, 3D & UI**
 
 ![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -298,7 +246,7 @@ Resume builder, cover letter generator, email writer, content rewriter, summariz
 </td>
 <td valign="top" width="50%">
 
-**Backend & Cloud**
+**Backend, Cloud & Edge**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -308,7 +256,7 @@ Resume builder, cover letter generator, email writer, content rewriter, summariz
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
-**Testing & DevOps**
+**Testing, CI/CD & Build**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -325,7 +273,7 @@ Resume builder, cover letter generator, email writer, content rewriter, summariz
 <!--                            GITHUB STATS                                         -->
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="28"> &nbsp; GitHub Stats
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="28"> &nbsp; GitHub Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x-tahosin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" alt="stats"/>
@@ -352,52 +300,36 @@ Resume builder, cover letter generator, email writer, content rewriter, summariz
 ---
 
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
-<!--                           CURRENTLY / FOCUS                                     -->
+<!--                         WRITING & AUDIENCE                                       -->
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/seedling_1f331.png" width="28"> &nbsp; Currently
-
-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" width="18"/> &nbsp; **Running** a six-platform social-media autopilot — new tech article every 12h on [Dev.to](https://dev.to/tahosin), [Hashnode](https://tahosin.hashnode.dev), X, Facebook, Instagram + [daily-tech-notes](https://github.com/x-tahosin/daily-tech-notes)
-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="18"/> &nbsp; **Building** [Gift of Voice](https://github.com/x-tahosin/giftofvoice) — real-time expressive speech restoration for non-verbal individuals
-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/trophy_1f3c6.png" width="18"/> &nbsp; **Shipped** [Solstice Runner](https://github.com/x-tahosin/Solstice-Runner) for the DEV June Solstice Game Jam & won the **Google I/O 2026 Challenge**
-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png" width="18"/> &nbsp; **Exploring** multi-agent planning frameworks, speech streaming pipelines, and 3D WebGL optimization
-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/memo_1f4dd.png" width="18"/> &nbsp; **Writing** weekly on [dev.to/tahosin](https://dev.to/tahosin) and [tahosin.me](https://tahosin.me)
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════════════════ -->
-<!--                         WRITING & COMMUNITY                                     -->
-<!-- ════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/memo_1f4dd.png" width="28"> &nbsp; Writing & Community
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/memo_1f4dd.png" width="28"> &nbsp; Writing & Technical Articles
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Dev.to** · [@tahosin](https://dev.to/tahosin)
+**Dev.to Author Hub** · [@tahosin](https://dev.to/tahosin)
 
-`16+ articles` · `9,050+ views` · `1,050+ reactions` · `5,650+ followers`
+`16+ articles` · `90K+ views` · `1,050+ reactions` · `5.6K+ followers`
 
-**Role: DEV Community Curator & Subscriber**
+**Official Role: DEV Community Curator & Subscriber**
 
-Build logs, tutorials, architecture post-mortems, and hackathon wins. New articles posted regularly.
+System post-mortems, multi-agent frameworks, audio streaming pipelines, and hackathon wins.
 
 [![Follow on Dev.to](https://img.shields.io/badge/Follow%20on%20Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/tahosin)
 
 </td>
 <td valign="top" width="50%">
 
-**Personal Website & Blog** · [tahosin.me](https://tahosin.me)
-
-Longer-form deep-dives, portfolio showcases, and engineering manifestos:
+**Curated Deep-Dives** · [tahosin.me](https://tahosin.me)
 
 1. 🏆 [The Most Underrated Announcement from Google I/O 2026](https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-3k28)
 2. 🎙️ [Why Should a Mother with ALS Sound Like a Microwave? (Gift of Voice)](https://dev.to/tahosin/why-should-a-mother-with-als-sound-like-a-microwave-building-gift-of-voice-with-gemini-and-elevenlabs-2p6l)
 3. 🎮 [Chasing the Sun: 3D AI-Powered Solstice Runner](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-32cf)
 4. ⚡ [The 4-Byte Ghost: How a Single Emoji Brought Down Our Pipeline](https://dev.to/tahosin/the-4-byte-ghost-how-a-single-emoji-brought-down-our-payment-pipeline-4139)
 
-[![Visit Website](https://img.shields.io/badge/Visit-tahosin.me-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://tahosin.me)
+[![Visit Website](https://img.shields.io/badge/Explore%20Articles-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://tahosin.me)
 
 </td>
 </tr>
@@ -406,12 +338,12 @@ Longer-form deep-dives, portfolio showcases, and engineering manifestos:
 ---
 
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
-<!--                              CONTACT                                            -->
+<!--                              CONNECT                                            -->
 <!-- ════════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/telephone-receiver_1f4de.png" width="28"> &nbsp; Let's Connect
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/telephone-receiver_1f4de.png" width="28"> &nbsp; Get in Touch
 
-Open to collaboration on **humanitarian AI**, **autonomous agents**, and **open-source developer tools**.
+Open to collaboration on **humanitarian AI**, **autonomous multi-agent frameworks**, and **high-performance web tooling**.
 
 <p align="center">
   <a href="https://tahosin.me"><img src="https://img.shields.io/badge/Website-tahosin.me-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
