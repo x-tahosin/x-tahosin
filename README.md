@@ -276,24 +276,19 @@ Calculates an instant personal eco score in 60 seconds with recommendations. Use
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="28"> &nbsp; GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-tahosin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-tahosin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=58A6FF" width="48%" alt="streak"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=x-tahosin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=x-tahosin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=58A6FF" width="49%" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-tahosin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" width="40%" alt="top langs"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=x-tahosin&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=6" width="55%" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x-tahosin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" width="98%" alt="activity graph"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=x-tahosin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="55%" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution-graph snake" src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake.svg" width="98%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/x-tahosin/x-tahosin/output/github-contribution-grid-snake.svg" width="98%" />
   </picture>
 </p>
 
